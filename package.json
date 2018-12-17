@@ -16,6 +16,10 @@
   "eslintConfig": {
     "extends": "react-app"
   },
+  "author": {
+    "name": "Kehinde Onadipe",
+    "email": "kenodipe@gmail.com"
+  },
   "browserslist": [
     ">0.2%",
     "not dead",
